@@ -1,1 +1,1 @@
-Repositório da discplina Arquitetura e organização de computadores 
+Repositório da disciplina Arquitetura e Organização de computadores 
